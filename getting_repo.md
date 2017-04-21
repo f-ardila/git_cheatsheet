@@ -6,4 +6,4 @@
 -   Cloning a repo:
     
         git clone repo_url
--
+--
